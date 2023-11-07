@@ -11,4 +11,6 @@ Hello,folks I am Aneesh Dighe,a Computer Science Student studying in Vishwakarma
 
   [![An image of @aneesh27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aneesh27)](https://holopin.io/@aneesh27)
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/aneeshd27/github-profile-trophy)
+
 
